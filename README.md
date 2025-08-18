@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, <br>I am Nihal Ahmad<br>I am currently working as a AI engineer<br>I am interested in Works like AI, ML, NLP, Computer Vision, RAG, etc.<br>
+Hello, <br>I am Nihal Ahmad<br>I am currently working as an AI engineer<br>I am interested in Works like AI, ML, NLP, Computer Vision, RAG, etc.<br>
 
 
 # 💻 Tech Stack:
